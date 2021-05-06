@@ -10,7 +10,7 @@ import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.listeners.Abs
 import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView;
 
 public class MainActivity extends AppCompatActivity {
-    String video_id ="gXWXKjR-qII";
+    String video_id ="jNQXAC9IVRw";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

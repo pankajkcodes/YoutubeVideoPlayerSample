@@ -16,7 +16,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:showSeekBar="true"
-            app:videoId="gXWXKjR-qII"
             app:autoPlay="false"
             app:showVideoDuration="true"
             app:showVideoCurrentTime="true"
